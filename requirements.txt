@@ -1,0 +1,4 @@
+setuptools~=80.9.0
+pandas~=2.3.3
+numpy~=2.3.3
+seaborn~=0.13.2
